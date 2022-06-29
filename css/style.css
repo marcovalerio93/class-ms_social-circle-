@@ -6,3 +6,16 @@
 .ms-font{
     font-family: sans-serif;
 }
+#ms_jumbo{
+    background-image: url('../img/jumbo-bg.png');
+    background-size:cover;
+    background-position: center; 
+    padding-top: 300px;
+}
+main{
+    margin-top: 120px;
+}
+
+.ms_jumbo-btn{
+    background: color #cd3d0f;
+}
