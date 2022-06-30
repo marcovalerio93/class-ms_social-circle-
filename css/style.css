@@ -19,3 +19,16 @@ main{
 .ms_jumbo-btn{
     background: color #cd3d0f;
 }
+
+/* ms_playstation */
+.ms_ps-text{
+    padding-top: 300px;
+    
+}
+
+/* ms_it-takes-tow */
+.ms_it-takes-tow{
+    background-size:cover;
+    background-position: center;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg );
+}
